@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sg-devops/Pipeline%20Training/_apis/build/status/SavannahWooden.pipelines-java?branchName=master)](https://dev.azure.com/sg-devops/Pipeline%20Training/_build/latest?definitionId=1289&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
